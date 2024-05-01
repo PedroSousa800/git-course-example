@@ -9,3 +9,5 @@ We are learning how to make commits.
 Hi,
 
 Goodbye
+
+Docs
